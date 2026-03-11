@@ -163,7 +163,8 @@ a:hover {
 }
 
 #webaddress {
- 	margin-top: 0em;
+	margin-top: 0em;
+	margin-left: 0;
 	position: relative;
 	left: 28%;
 	color: #ccc;

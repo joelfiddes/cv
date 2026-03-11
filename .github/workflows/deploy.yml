@@ -63,8 +63,8 @@ jobs:
           <head>
             <meta charset=utf-8 />
             <title>Joel Fiddes CV</title>
-            <link href="cv-print.css" type="text/css" rel="stylesheet">
             <link href="cv-screen.css" type="text/css" rel="stylesheet">
+            <link href="cv-print.css" type="text/css" rel="stylesheet">
           </head>
           <body>
             <div id="main">
