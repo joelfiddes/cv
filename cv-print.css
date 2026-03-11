@@ -74,7 +74,7 @@ code {
 	font-style: normal;
 	font-size: 70%;
 	font-family: Menlo, monospace, sans-serif;
-	color: #ddd;
+	color: #666;
 }
 
 p code {
@@ -167,7 +167,7 @@ a:hover {
 	margin-left: 0;
 	position: relative;
 	left: 0;
-	color: #ccc;
+	color: #666;
 	font-family: Menlo,monospace,sans-serif;
 	font-size: 80%;
 }
