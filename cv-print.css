@@ -209,3 +209,7 @@ strong {
 		margin-right: 0;
 		width: 65%;
 }
+
+#main::before {
+	display: none;
+}
