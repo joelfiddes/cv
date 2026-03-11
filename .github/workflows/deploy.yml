@@ -19,10 +19,13 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Install pandoc
-        run: sudo apt-get install -y pandoc
+      - name: Install dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y pandoc python3-pip
+          pip3 install weasyprint
 
-      - name: Build HTML
+      - name: Build main CV HTML
         run: |
           BODY=$(pandoc index.md --from markdown --to html --no-highlight)
           cat > index.html << HTMLEOF
@@ -34,7 +37,37 @@ jobs:
             <link href="cv-screen.css" type="text/css" rel="stylesheet" media="screen">
             <link href="cv-print.css" type="text/css" rel="stylesheet" media="print">
             <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
-            <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,700' rel='stylesheet' type='text/css'>
+            <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,700' rel='stylesheet' type='text/css'>
+          </head>
+          <body>
+            <details class="download-btn">
+              <summary>Download &#9662;</summary>
+              <div class="dropdown">
+                <a href="cv-main.pdf">PDF</a>
+                <a href="cv-adb.pdf">ADB Format (PDF)</a>
+                <a href="cv-europass.pdf">Europass Format (PDF)</a>
+              </div>
+            </details>
+            <div id="main">
+              <div id="content">
+              ${BODY}
+              </div>
+            </div>
+          </body>
+          </html>
+          HTMLEOF
+
+      - name: Build print version HTML
+        run: |
+          BODY=$(pandoc index.md --from markdown --to html --no-highlight)
+          cat > cv-main-print.html << HTMLEOF
+          <!doctype html>
+          <html>
+          <head>
+            <meta charset=utf-8 />
+            <title>Joel Fiddes CV</title>
+            <link href="cv-print.css" type="text/css" rel="stylesheet">
+            <link href="cv-screen.css" type="text/css" rel="stylesheet">
           </head>
           <body>
             <div id="main">
@@ -45,6 +78,12 @@ jobs:
           </body>
           </html>
           HTMLEOF
+
+      - name: Generate PDFs
+        run: |
+          weasyprint cv-main-print.html cv-main.pdf
+          weasyprint cv-adb.html cv-adb.pdf
+          weasyprint cv-europass.html cv-europass.pdf
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3

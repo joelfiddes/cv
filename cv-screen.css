@@ -255,13 +255,58 @@ strong {
     page-break-inside: avoid;
 }
 
-/* 
-#technical {
-
+.download-btn {
+  position: fixed;
+  top: 1em;
+  right: 1.5em;
+  z-index: 100;
 }
-*/
 
-/*
-@media only screen and (max-width: 480px) {
-	make one column somehow...
-}*/
+.download-btn summary {
+  display: inline-block;
+  padding: 0.5em 1em;
+  background: #639033;
+  color: #fff;
+  border-radius: 4px;
+  cursor: pointer;
+  font-family: "Open sans", sans-serif;
+  font-size: 90%;
+  list-style: none;
+}
+
+.download-btn summary::-webkit-details-marker {
+  display: none;
+}
+
+.download-btn summary:hover {
+  background: #4b7a28;
+}
+
+.download-btn .dropdown {
+  position: absolute;
+  right: 0;
+  margin-top: 0.3em;
+  background: #fff;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+  min-width: 160px;
+}
+
+.download-btn .dropdown a {
+  display: block;
+  padding: 0.5em 1em;
+  color: #333;
+  text-decoration: none;
+  font-family: "Open sans", sans-serif;
+  font-size: 90%;
+}
+
+.download-btn .dropdown a:hover {
+  background: #f0f0f0;
+  color: #639033;
+}
+
+@media print {
+  .download-btn { display: none; }
+}
