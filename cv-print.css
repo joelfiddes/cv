@@ -111,7 +111,7 @@ h1,h2,h3,h4 {
 }
 
 h1 {
-	color: #222;
+	color: #4b4b4b;
 	text-align: left;
 	font-size: 2.2em;
 	line-height: 1em;
@@ -121,7 +121,7 @@ h1 {
 
 h1+p {
 	/*subtitle*/
-	font-style: italic;
+	color: #91ccd9;
 	font-size: 110%;
 	line-height: 2em;
 	margin-top: 0.1em;
@@ -130,7 +130,7 @@ h1+p {
 
 h2 {
 	font-size: 1.1em;
-	color: #a00;
+	color: #91ccd9;
 	margin-top: 1em;
 	position: relative;
 	top: 1.5em;
@@ -143,10 +143,9 @@ h2+p {
 }
 
 h3 {
-	color: #F07415;
 	font-size: 1em;
 	line-height: 2em;
-	color: #ccc;
+	color: #91ccd9;
 	position: relative;
 	top: 1.6em;
 	text-align: right;
@@ -166,7 +165,7 @@ a:hover {
 	margin-top: 0em;
 	margin-left: 0;
 	position: relative;
-	left: 28%;
+	left: 0;
 	color: #ccc;
 	font-family: Menlo,monospace,sans-serif;
 	font-size: 80%;
