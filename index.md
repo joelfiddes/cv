@@ -35,7 +35,7 @@ __University of Aberdeen__ BSc Tropical Environmental Science. Thesis: Sustainab
 __Mountain Futures GmbH (since 2025)__ _Co-Founder_. WSL/SLF spin-off providing science-based consulting on mountain water resources, cryosphere monitoring, and climate risk. Clients include multilateral development banks, bilateral donors, and international organisations operating in High Mountain Asia.
 
 `2022-present`
-__SDC SAPPHIRE__ _Technical Lead, Snow & Cryosphere_. Technical lead for snow and cryosphere within the SDC SAPPHIRE Central Asia programme (Smart & Precise Prognostic Hydrology in Central Asia). Developed and operates the SnowMapper — a near-real-time, 500m resolution snow monitoring and forecasting system covering five Central Asian countries, benchmarked against a 24-year climatology. The system is built on the <a href="https://doi.org/10.21105/joss.05059">TopoPyScale</a> toolchain.
+__SDC SAPPHIRE__ _Technical Lead, Snow & Cryosphere_. Technical lead for snow and cryosphere within the SDC SAPPHIRE Central Asia programme (Smart & Precise Prognostic Hydrology in Central Asia). Developed and operates the SnowMapper — an operational 500m resolution snow monitoring and forecasting system covering five Central Asian countries, benchmarked against a 24-year climatology. The system is built on the <a href="https://doi.org/10.21105/joss.05059">TopoPyScale</a> toolchain.
 
 `2023-present`
 __World Meteorological Organization__ _Contributing Author_. Annual snow assessment for the WMO Global Cryosphere Watch programme, providing the Central Asia regional analysis. <a href="https://globalcryospherewatch.org/assessments/snow/">GCW Snow Assessments</a>
@@ -100,7 +100,7 @@ __Formative research expeditions__. Gulf apex predator prey project (_University
 
 ## Core competences
 
-* Design and operation of near-real-time snow and hydrological monitoring systems for data-scarce mountain regions.
+* Design and operation of operational snow and hydrological monitoring and forecasting systems for data-scarce mountain regions.
 * Climate change impact assessment and scenario development for high mountain water resources.
 * Development of open-source geoscientific tools adopted across research and operational communities (TopoSCALE, TopoPyScale, TopoCLIM).
 * Programme design and technical leadership for multilateral donors (SDC, WMO, World Bank, UNESCO/GEF).
