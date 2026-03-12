@@ -49,6 +49,9 @@ __WSL Institute for Snow and Avalanche Research SLF__ _Research Scientist_. Rese
 `2024-25`
 __UNESCO/Global Environment Facility__ _Consultant_. Developed high-resolution climate change impact scenarios for snow cover across Central Asia under a GEF/UNDP/UNESCO regional project strengthening cryosphere monitoring and climate resilience in five countries. Outputs contributed to national and regional strategic action programmes for climate adaptation.
 
+`2025-26`
+__Landell Mills Ltd (EU)__ _Hydrological Modeller_. Revival of Balochistan Water Resources Programme (RBWRP) — climate downscaling and hydrological modelling across 214 catchments in Balochistan, Pakistan. Built an interactive <a href="https://joelfiddes-bwrp.share.connect.posit.cloud/">climate and hydrology dashboard</a> for exploring current conditions and future scenarios (SSP1-2.6, SSP2-4.5, SSP5-8.5). EU-funded programme implemented with FAO.
+
 `2023-24`
 __FutureWater__ _Consultant_. Project development and partner coordination for integrated water resources management in Tajikistan. <a href="https://www.futurewater.eu/projects/integrated-water-resources-management-in-tajikistan/">FutureWater project page</a>.
 
