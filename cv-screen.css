@@ -309,5 +309,4 @@ strong {
 
 @media print {
   .download-btn { display: none; }
-  #main::before { display: none; }
 }

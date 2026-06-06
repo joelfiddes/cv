@@ -74,7 +74,7 @@ code {
 	font-style: normal;
 	font-size: 70%;
 	font-family: Menlo, monospace, sans-serif;
-	color: #91ccd9;
+	color: #858585;
 }
 
 p code {
@@ -170,7 +170,7 @@ a:hover {
 	margin-left: 0;
 	position: relative;
 	left: 0;
-	color: #91ccd9;
+	color: #aaa;
 	font-family: Menlo,monospace,sans-serif;
 	font-size: 80%;
 }
@@ -215,5 +215,12 @@ strong {
 }
 
 #main::before {
-	display: none;
+	content: "";
+	position: absolute;
+	top: 0;
+	left: 1em;
+	width: 200px;
+	height: 80px;
+	background: url('mf_logo.png') no-repeat left top;
+	background-size: contain;
 }
