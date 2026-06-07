@@ -34,14 +34,14 @@ __University of Aberdeen__ BSc Tropical Environmental Science. Thesis: Sustainab
 `current`
 __Mountain Futures GmbH (since 2025)__ _Co-Founder_. WSL/SLF spin-off providing science-based consulting on mountain water resources, cryosphere monitoring, and climate risk. Clients include multilateral development banks, bilateral donors, and international organisations operating in High Mountain Asia.
 
-`2022-present`
-__SDC SAPPHIRE__ _Technical Lead, Snow & Cryosphere_. Technical lead for snow and cryosphere within the SDC SAPPHIRE Central Asia programme (Smart & Precise Prognostic Hydrology in Central Asia). Developed and operates the SnowMapper — an operational 500m resolution snow monitoring and forecasting system covering five Central Asian countries, benchmarked against a 24-year climatology. The system is built on the <a href="https://doi.org/10.21105/joss.05059">TopoPyScale</a> toolchain.
+`2025-present`
+__hydrosolutions GmbH__ _Snow Forecasting_. BARHKH (Building Adaptation and Resilience in the Hindu Kush Himalayas) — ADB programme co-funded by SDC, strengthening flood resilience in Nepal. SnowMapper deployment for snowpack monitoring, with contributions to deep-learning streamflow forecasting and flood hazard mapping in data-scarce mountain basins. Partners include University of Geneva, University of Zurich, Tribhuvan University, Practical Action, and Nepal's DHM and NDRRMA. <a href="https://www.adb.org/projects/57059-001/main">ADB project</a>.
 
 `2023-present`
 __World Meteorological Organization__ _Contributing Author_. Annual snow assessment for the WMO Global Cryosphere Watch programme, providing the Central Asia regional analysis. <a href="https://globalcryospherewatch.org/assessments/snow/">GCW Snow Assessments</a>
 
-`2025-present`
-__hydrosolutions GmbH__ _Snow Forecasting_. BARHKH (Building Adaptation and Resilience in the Hindu Kush Himalayas) — ADB programme co-funded by SDC, strengthening flood resilience in Nepal. SnowMapper deployment for snowpack monitoring, with contributions to deep-learning streamflow forecasting and flood hazard mapping in data-scarce mountain basins. Partners include University of Geneva, University of Zurich, Tribhuvan University, Practical Action, and Nepal's DHM and NDRRMA. <a href="https://www.adb.org/projects/57059-001/main">ADB project</a>.
+`2022-present`
+__SDC SAPPHIRE__ _Technical Lead, Snow & Cryosphere_. Technical lead for snow and cryosphere within the SDC SAPPHIRE Central Asia programme (Smart & Precise Prognostic Hydrology in Central Asia). Developed and operates the SnowMapper — an operational 500m resolution snow monitoring and forecasting system covering five Central Asian countries, benchmarked against a 24-year climatology. The system is built on the <a href="https://doi.org/10.21105/joss.05059">TopoPyScale</a> toolchain.
 
 `2025-26`
 __Landell Mills Ltd (EU)__ _Hydrological Modeller_. Revival of Balochistan Water Resources Programme (RBWRP) — climate downscaling and hydrological modelling across 214 catchments in Balochistan, Pakistan. Built an interactive <a href="https://joelfiddes-bwrp.share.connect.posit.cloud/">climate and hydrology dashboard</a> for exploring current conditions and future scenarios (SSP1-2.6, SSP2-4.5, SSP5-8.5). EU-funded programme implemented with FAO.
