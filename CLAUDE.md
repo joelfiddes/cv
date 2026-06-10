@@ -70,7 +70,9 @@ The ADB CV is a standalone HTML file in TECH-5 table format. Edit it directly.
 ### Current project entries in section 13
 - RBWRP (Balochistan, Landell Mills/EU)
 - SDC SAPPHIRE / SnowMapper
-- CROMO-ADAPT & WWCS
+- BARHKH (Nepal, ADB co-funded by SDC, via hydrosolutions)
+- CROMO-ADAPT (Central Asia, SDC, 2021–2026)
+- WWCS (Tajikistan, SDC with CARITAS CH)
 - UNESCO/GEF Climate Scenarios
 - WMO Cryosphere Monitoring
 - FutureWater Bhagirathi Basin
