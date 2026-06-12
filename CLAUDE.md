@@ -57,6 +57,8 @@ Pushes to `main` trigger the GitHub Action which:
 
 The ADB CV is a standalone HTML file in TECH-5 table format. Edit it directly.
 
+It is still built to `cv-adb.pdf` and deployed, but is intentionally **not** linked from the public download menu (the dropdown in `deploy.yml`) — it is project-specific. Share the direct URL (`/cv/cv-adb.pdf`) internally on request.
+
 ### How to update for a new proposal
 
 1. **Section 1 (Proposed Position)** — Update the position title per the TOR

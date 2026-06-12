@@ -41,8 +41,9 @@ jobs:
               <summary>Download &#9662;</summary>
               <div class="dropdown">
                 <a href="cv-main.pdf">PDF</a>
-                <a href="cv-adb.pdf">ADB Format (PDF)</a>
                 <a href="cv-europass.pdf">Europass Format (PDF)</a>
+                <!-- ADB (TECH-5) PDF is project-specific: still built (cv-adb.pdf)
+                     and available by direct URL, but intentionally not listed publicly. -->
               </div>
             </details>
             <div id="main">
