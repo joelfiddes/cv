@@ -23,7 +23,7 @@ Co-founder of Mountain Futures GmbH, a WSL/SLF spin-off providing science-based 
 __University of Zurich__ PhD Geoscience. Thesis: Subgrid Simulation of Land Surface Variables in Heterogeneous and Remote Environments: Application to Mountain Permafrost. <a href="https://www.zora.uzh.ch/id/eprint/105313/">Online pdf</a>.
 
 `2006-07`
-__University of Edinburgh__ MSc Environment & development. Thesis: Impact of climate change on snow-based water resources in Afghanistan.
+__University of Edinburgh__ MSc Environment & development. Thesis: Implications of Climate Change for Water Resources in the Kunduz River Basin, Afghanistan. <a href="https://mountainfutures.ch/docs/Fiddes_2007_MSc_Kunduz_River_Basin.pdf">Online pdf</a>.
 
 `2001-04`
 __University of Aberdeen__ BSc Tropical Environmental Science. Thesis: Sustainability of subsistence hunting on Neotropical mammal species in North-East Peruvian Amazon.
@@ -98,7 +98,7 @@ __University of Zurich__ _Scientist_. Swiss Development Cooperation/DEZA funded 
 __University of Zurich__ _Scientific Researcher / PhD Candidate_. National Science Foundation funded research developing <a href="http://dx.doi.org/10.5194/gmd-5-1245-2012">TopoSUB</a> and <a href="http://dx.doi.org/10.5194/gmd-7-387-2014">TopoSCALE</a> — tools enabling efficient application of numerical models driven by climate datasets in complex terrain. Three first-author publications, oral and poster presentations at international conferences. Supervision of MSc and BSc students. Fieldwork in high mountain environments.
 
 `2007-12`
-__Landell Mills Ltd / EU__ _Consultant_. Multiple engagements under the Kunduz River Basin Programme (KRBP) and Panj-Amu River Basin Programme (P-ARBP) in Afghanistan. Work included: water resource management strategy and snow sampling training in the Wakhan Corridor; remote sensing analysis of irrigated zones (Sar-i-Pul, Panj Amu, Baghlan); avalanche hazard risk zoning in Badakhshan (with GIZ/Hydroc); GIS capacity building for Agha Khan Foundation and government partners; social water management and catchment protection (SWIM/SMILE, PEEP) with Concern Worldwide/Welt Hunger Hilfe; and a 30-year satellite snow cover analysis for Mercy Corps, published as <a href="https://www.mercycorps.org/files/file1198714955.pdf">Fiddes 2007</a>.
+__Landell Mills Ltd / EU__ _Consultant_. Multiple engagements under the Kunduz River Basin Programme (KRBP) and Panj-Amu River Basin Programme (P-ARBP) in Afghanistan. Work included: water resource management strategy and snow sampling training in the Wakhan Corridor; remote sensing analysis of irrigated zones (Sar-i-Pul, Panj Amu, Baghlan); avalanche hazard risk zoning in Badakhshan (with GIZ/Hydroc); GIS capacity building for Agha Khan Foundation and government partners; social water management and catchment protection (SWIM/SMILE, PEEP) with Concern Worldwide/Welt Hunger Hilfe; and a 30-year satellite snow cover analysis for Mercy Corps, published as <a href="https://www.unisdr.org/files/9060_file11987149551.pdf">Fiddes 2007</a>.
 
 `1999-04`
 __Formative research expeditions__. Gulf apex predator prey project (_University Alaska Fairbanks, Alaska, 2004_). Subsistence hunting study (_University of Aberdeen / Royal Geographical Society, Peruvian Amazon, 2003_). Coral reef biodiversity monitoring (_Greenforce / University of Malaysia, Borneo, 2001_). Tian Shan biodiversity study (_BSES/CEH, Kyrgyzstan, 1999_).
@@ -131,6 +131,10 @@ __Formative research expeditions__. Gulf apex predator prey project (_University
 ### Peer reviewed
 
 `2026`
+Barandun, M., **Fiddes, J.**, Atanov, S., Saks, T., Mathys, T., Pohl, E., et al. (2026) "Cryosphere Monitoring in Central Asia." In: Towards Sustainable Future of Central Asia: Analysis of Climate, Resources and Human Security. Advances in Global Change Research, Springer. pp. 117-147. <a href="https://doi.org/10.1007/978-3-032-29989-5_5">10.1007/978-3-032-29989-5_5</a>
+
+Barandun, M., Saks, T., Atanov, S., Azisov, E., Bektursunov, Z., Esenaman Uulu, M., **Fiddes, J.**, et al. (2026) "The State of the Central Asian Cryosphere." In: Towards Sustainable Future of Central Asia: Analysis of Climate, Resources and Human Security. Advances in Global Change Research, Springer. pp. 79-116. <a href="https://doi.org/10.1007/978-3-032-29989-5_4">10.1007/978-3-032-29989-5_4</a>
+
 Van Tricht, L., Kneib, M., Huss, M., Zekollari, H., Barandun, M., et al. (incl. **Fiddes, J.**) (2026) "Record-breaking glacier mass loss in Central Asia in 2025." Environmental Research Letters, 21. <a href="https://doi.org/10.1088/1748-9326/ae6712">10.1088/1748-9326/ae6712</a>
 
 `2025`
@@ -241,7 +245,9 @@ Beekma, J. and **Fiddes, J.** 2011. Floods and droughts: The Afghan water parado
 **Fiddes, J.** (2010). Climbs and expeditions: Asia, Afghanistan, Hindu Kush, Koh-i-Beefy. American Alpine Journal. 52, 84, pp.255. <a href="http://publications.americanalpineclub.org/articles/12201025500/Koh-i-Beefy-ca-5400m">online version</a> <a href="http://news.bbc.co.uk/2/hi/uk_news/scotland/8535351.stm">BBC article</a>
 
 `2007`
-**Fiddes, J.** (2007). Afghanistan: Implications Of Climate Change For Water Resources In The Kunduz River Basin in Climate Challenges: Bridging the Knowledge Gap. Mercy Corps Climate change unit. <a href="https://www.mercycorps.org/files/file1198714955.pdf">online version</a>
+**Fiddes, J.** (2007). Implications of Climate Change for Water Resources in the Kunduz River Basin, Afghanistan (MSc dissertation, University of Edinburgh). <a href="https://mountainfutures.ch/docs/Fiddes_2007_MSc_Kunduz_River_Basin.pdf">Online pdf</a>. Summarised in <a href="https://www.unisdr.org/files/9060_file11987149551.pdf">Mercy Corps (2007)</a>.
+
+**Fiddes, J.** (2007). Afghanistan: Implications Of Climate Change For Water Resources In The Kunduz River Basin in Climate Challenges: Bridging the Knowledge Gap. Mercy Corps Climate change unit. <a href="https://www.unisdr.org/files/9060_file11987149551.pdf">online version</a>
 
 
 ## Selected Grants & Awards
@@ -304,4 +310,4 @@ Prince of Wales Student Scholarship (_Tuition fees_)
 
 ---
 
-Last updated: June 2026
+Last updated: October 2026
